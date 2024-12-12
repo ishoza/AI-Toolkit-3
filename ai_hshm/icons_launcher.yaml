@@ -1,0 +1,11 @@
+icons_launcher:
+  image_path: "assets\images\chatbot.png"
+  platforms:
+    android:
+      enable: true
+    ios:
+      enable: true
+    web:
+      enable: true
+    chrome:
+      enable: true
